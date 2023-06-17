@@ -1,6 +1,6 @@
 # CSPB 3202 Final Project #
 
-Tyler Kinkade, Tyler.Kinkade@colorado.edu    
+Tyler Kinkade    
 
 _All rights reserved_
 
